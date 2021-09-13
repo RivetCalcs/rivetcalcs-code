@@ -1,7 +1,7 @@
 Program Structure
 ----------------- 
 
-**rivtlib** is an open source Python library for producing engineering calculation 
+**rivtcalc** is an open source Python library for producing engineering calculation 
 documents. It simplifies writing, checking and sharing calculations and 
 runs on all desktop, mobile and server platforms. It writes calculation
 documents and reports in UTF8, HTML and PDF file formats from plain text input.
